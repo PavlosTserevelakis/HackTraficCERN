@@ -1,0 +1,16 @@
+# Objects file
+*.o
+
+# LaTeX useless files
+*.aux
+*.log
+*.tex.backup
+
+# Java compiled class files
+bin/
+
+# log and data file
+data_*.txt
+log.txt
+data/*.txt
+data/*/*.txt
